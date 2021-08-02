@@ -1,0 +1,20 @@
+{
+  "name": "said-api",
+  "version": "1.0.0",
+  "description": "link salla api to beone express'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "express",
+    "webhooks"
+  ],
+  "author": "Monzer Omer",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
